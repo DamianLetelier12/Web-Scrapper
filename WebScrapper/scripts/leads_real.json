@@ -1,0 +1,380 @@
+[
+    {
+        "company": "heidenstedt.org",
+        "title": "AI-Assisted Cognition Endangers Human Development",
+        "country": "global",
+        "score": 1,
+        "date": "2026-04-15",
+        "real_emails": [],
+        "primary_email": "",
+        "status": "no_email"
+    },
+    {
+        "company": "strix.ai",
+        "title": "Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson",
+        "country": "global",
+        "score": 0,
+        "date": "2026-04-15",
+        "real_emails": [
+            "you@company.com",
+            "support@cal.com"
+        ],
+        "primary_email": "you@company.com",
+        "status": "real"
+    },
+    {
+        "company": "eff.org",
+        "title": "Google Broke Its Promise to Me. Now ICE Has My Data",
+        "country": "global",
+        "score": 1,
+        "date": "2026-04-15",
+        "real_emails": [
+            "hr@eff.org",
+            "info@eff.org",
+            "press@eff.org",
+            "extension-devs@eff.org",
+            "activist@eff.org",
+            "membership@eff.org"
+        ],
+        "primary_email": "hr@eff.org",
+        "status": "real"
+    },
+    {
+        "company": "wchambliss.wordpress.com",
+        "title": "God Sleeps in the Minerals",
+        "country": "global",
+        "score": 0,
+        "date": "2026-04-15",
+        "real_emails": [],
+        "primary_email": "",
+        "status": "no_email"
+    },
+    {
+        "company": "prog21.dadgum.com",
+        "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
+        "country": "global",
+        "score": 0,
+        "date": "2026-04-15",
+        "real_emails": [
+            "james.hague@gmail.com"
+        ],
+        "primary_email": "james.hague@gmail.com",
+        "status": "real"
+    },
+    {
+        "company": "aalonso.dev",
+        "title": "Fix monitor that goes black, off or blinks due to static electricity in chair",
+        "country": "global",
+        "score": 1,
+        "date": "2026-04-15",
+        "real_emails": [],
+        "primary_email": "",
+        "status": "no_email"
+    },
+    {
+        "company": "semafor.com",
+        "title": "Kalshi CEO expects US DOJ to prosecute insider trading cases",
+        "country": "global",
+        "score": 0,
+        "date": "2026-04-15",
+        "real_emails": [
+            "tmcdonnell@semafor.com",
+            "abrowne@semafor.com",
+            "mmartin@semafor.com",
+            "flagship@semafor.com",
+            "partnerships@semafor.com",
+            "reed@semafor.com",
+            "yinka.adegoke@semafor.com",
+            "bsmith@semafor.com",
+            "dweigel@semafor.com",
+            "communications@semafor.com",
+            "lhoffman@semafor.com",
+            "cchandler@semafor.com",
+            "tmotsoeneng@semafor.com",
+            "kelseyw@semafor.com",
+            "newsroom@semafor.com",
+            "mohammed@semafor.com"
+        ],
+        "primary_email": "tmcdonnell@semafor.com",
+        "status": "real"
+    },
+    {
+        "company": "super-memory.com",
+        "title": "Good Sleep, Good Learning (2012)",
+        "country": "global",
+        "score": 0,
+        "date": "2026-04-15",
+        "real_emails": [],
+        "primary_email": "",
+        "status": "no_email"
+    },
+    {
+        "company": "cal.com",
+        "title": "Cal.com is going closed source",
+        "country": "global",
+        "score": 0,
+        "date": "2026-04-15",
+        "real_emails": [
+            "you@company.com",
+            "support@cal.com"
+        ],
+        "primary_email": "you@company.com",
+        "status": "real"
+    },
+    {
+        "company": "dbpro.app",
+        "title": "Do you even need a database?",
+        "country": "global",
+        "score": 1,
+        "date": "2026-04-15",
+        "real_emails": [
+            "you@example.com",
+            "your@email.com"
+        ],
+        "primary_email": "you@example.com",
+        "status": "real"
+    },
+    {
+        "company": "100x.bot",
+        "title": "Forcing an inversion of control on the SaaS stack",
+        "country": "global",
+        "score": 0,
+        "date": "2026-04-15",
+        "real_emails": [],
+        "primary_email": "",
+        "status": "no_email"
+    },
+    {
+        "company": "torrentfreak.com",
+        "title": "Anna's Archive loses $322M Spotify piracy case without a fight",
+        "country": "global",
+        "score": 0,
+        "date": "2026-04-15",
+        "real_emails": [
+            "ernesto@torrentfreak.com"
+        ],
+        "primary_email": "ernesto@torrentfreak.com",
+        "status": "real"
+    },
+    {
+        "company": "blog.xaner.dev",
+        "title": "How do Wake-On-LAN works",
+        "country": "global",
+        "score": 0,
+        "date": "2026-04-15",
+        "real_emails": [
+            "marius-sol@protonmail.com"
+        ],
+        "primary_email": "marius-sol@protonmail.com",
+        "status": "real"
+    },
+    {
+        "company": "deepmind.google",
+        "title": "Gemini Robotics-ER 1.6",
+        "country": "global",
+        "score": 0,
+        "date": "2026-04-15",
+        "real_emails": [],
+        "primary_email": "",
+        "status": "no_email"
+    },
+    {
+        "company": "aphyr.com",
+        "title": "The Future of Everything Is Lies, I Guess: New Jobs",
+        "country": "global",
+        "score": 0,
+        "date": "2026-04-15",
+        "real_emails": [
+            "aphyr+about@aphyr.com",
+            "aphyr@aphyr.com"
+        ],
+        "primary_email": "aphyr+about@aphyr.com",
+        "status": "real"
+    },
+    {
+        "company": "en.wikipedia.org",
+        "title": "Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis",
+        "country": "global",
+        "score": 1,
+        "date": "2026-04-15",
+        "real_emails": [],
+        "primary_email": "",
+        "status": "no_email"
+    },
+    {
+        "company": "iczelia.net",
+        "title": "Fixing a 20-year-old bug in Enlightenment E16",
+        "country": "global",
+        "score": 0,
+        "date": "2026-04-15",
+        "real_emails": [
+            "kamila@cs.fs.uni-saarland.de",
+            "kamila@dyalog.com",
+            "kszewczyk@acm.org",
+            "k@iczelia.net"
+        ],
+        "primary_email": "kamila@cs.fs.uni-saarland.de",
+        "status": "real"
+    },
+    {
+        "company": "pretty.fish",
+        "title": "Pretty Fish: A better mermaid diagram editor",
+        "country": "global",
+        "score": 1,
+        "date": "2026-04-15",
+        "real_emails": [],
+        "primary_email": "",
+        "status": "no_email"
+    },
+    {
+        "company": "youtube.com",
+        "title": "We ran Doom on a 40 year old printer controller (Agfa Compugraphic 9000PS) [video]",
+        "country": "global",
+        "score": 0,
+        "date": "2026-04-15",
+        "real_emails": [],
+        "primary_email": "",
+        "status": "no_email"
+    },
+    {
+        "company": "bbc.com",
+        "title": "Metro stop is Ancient Rome's new attraction",
+        "country": "global",
+        "score": 0,
+        "date": "2026-04-15",
+        "real_emails": [],
+        "primary_email": "",
+        "status": "no_email"
+    },
+    {
+        "company": "gizmoweek.com",
+        "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+        "country": "global",
+        "score": 1,
+        "date": "2026-04-15",
+        "real_emails": [],
+        "primary_email": "",
+        "status": "no_email"
+    },
+    {
+        "company": "manchester.ac.uk",
+        "title": "Study: Back-to-basics approach can match or outperform AI in language analysis",
+        "country": "global",
+        "score": 1,
+        "date": "2026-04-15",
+        "real_emails": [
+            "uom@helpmeapply.co.uk",
+            "accommodation@manchester.ac.uk",
+            "manchesterstudenthomes@manchester.ac.uk",
+            "conference@manchester.ac.uk"
+        ],
+        "primary_email": "uom@helpmeapply.co.uk",
+        "status": "real"
+    },
+    {
+        "company": "wherethefuckdidmytaxesgo.com",
+        "title": "Where did my taxes go?",
+        "country": "global",
+        "score": 0,
+        "date": "2026-04-15",
+        "real_emails": [],
+        "primary_email": "",
+        "status": "no_email"
+    },
+    {
+        "company": "tracksuccession.com",
+        "title": "Show HN: Every CEO and CFO change at US public companies, live from SEC",
+        "country": "global",
+        "score": 0,
+        "date": "2026-04-15",
+        "real_emails": [
+            "you@company.com"
+        ],
+        "primary_email": "you@company.com",
+        "status": "real"
+    },
+    {
+        "company": "androidauthority.com",
+        "title": "The tiniest e-reader in the world, and you can build one yourself",
+        "country": "global",
+        "score": 0,
+        "date": "2026-04-15",
+        "real_emails": [
+            "contact@androidauthority.com",
+            "licensing@androidauthority.com",
+            "sales@androidauthority.com",
+            "news@androidauthority.com"
+        ],
+        "primary_email": "contact@androidauthority.com",
+        "status": "real"
+    },
+    {
+        "company": "vesta.com.mx",
+        "title": "empresa industrial mexico inmobiliaria",
+        "country": "mexico",
+        "score": 2,
+        "date": "2026-04-15",
+        "real_emails": [
+            "investor.relations@vesta.com.mx",
+            "getintouch@vesta.com.mx",
+            "relacion.inversionistas@vesta.com.mx",
+            "info@vesta.com.mx",
+            "sustainability@vesta.com.mx"
+        ],
+        "primary_email": "investor.relations@vesta.com.mx",
+        "status": "real"
+    },
+    {
+        "company": "fibrauno.mx",
+        "title": "empresa industrial mexico inmobiliaria",
+        "country": "mexico",
+        "score": 2,
+        "date": "2026-04-15",
+        "real_emails": [],
+        "primary_email": "",
+        "status": "no_email"
+    },
+    {
+        "company": "ica.com.mx",
+        "title": "empresa industrial mexico inmobiliaria",
+        "country": "mexico",
+        "score": 2,
+        "date": "2026-04-15",
+        "real_emails": [],
+        "primary_email": "",
+        "status": "no_email"
+    },
+    {
+        "company": "centenario.com.pe",
+        "title": "empresa inmobiliaria peru proyecto",
+        "country": "peru",
+        "score": 2,
+        "date": "2026-04-15",
+        "real_emails": [],
+        "primary_email": "",
+        "status": "no_email"
+    },
+    {
+        "company": "besco.com.pe",
+        "title": "empresa inmobiliaria peru proyecto",
+        "country": "peru",
+        "score": 2,
+        "date": "2026-04-15",
+        "real_emails": [],
+        "primary_email": "",
+        "status": "no_email"
+    },
+    {
+        "company": "losportales.pe",
+        "title": "empresa inmobiliaria peru proyecto",
+        "country": "peru",
+        "score": 2,
+        "date": "2026-04-15",
+        "real_emails": [
+            "datospersonales@losportales.com.pe",
+            "derechosarco@losportales.com.pe"
+        ],
+        "primary_email": "datospersonales@losportales.com.pe",
+        "status": "real"
+    }
+]

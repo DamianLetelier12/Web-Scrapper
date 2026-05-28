@@ -1,0 +1,25 @@
+[
+    {
+        "company": "encuentraempresas.cl",
+        "emails": [
+            "propiedades156@gmail.com"
+        ],
+        "date": "2026-04-16"
+    },
+    {
+        "company": "empresachile.cl",
+        "emails": [
+            "soporte@empresachile.cl",
+            "contacto@empresachile.cl"
+        ],
+        "date": "2026-04-16"
+    },
+    {
+        "company": "tuwebchile.cl",
+        "emails": [
+            "ventas@tuwebchile.cl",
+            "tu@correo.cl"
+        ],
+        "date": "2026-04-16"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": "seed_0",
+        "company": "enel.cl",
+        "date": "2026-04-14",
+        "url": "https://www.enel.cl",
+        "emails": [],
+        "email_found": false,
+        "source": "seed",
+        "status": "new"
+    },
+    {
+        "id": "seed_1",
+        "company": "copec.cl",
+        "date": "2026-04-14",
+        "url": "https://www.copec.cl",
+        "emails": [],
+        "email_found": false,
+        "source": "seed",
+        "status": "new"
+    },
+    {
+        "id": "seed_2",
+        "company": "sonda.com",
+        "date": "2026-04-14",
+        "url": "https://www.sonda.com",
+        "emails": [],
+        "email_found": false,
+        "source": "seed",
+        "status": "new"
+    },
+    {
+        "id": "seed_3",
+        "company": "cencosud.com",
+        "date": "2026-04-14",
+        "url": "https://www.cencosud.com",
+        "emails": [],
+        "email_found": false,
+        "source": "seed",
+        "status": "new"
+    },
+    {
+        "id": "seed_4",
+        "company": "falabella.com",
+        "date": "2026-04-14",
+        "url": "https://www.falabella.com",
+        "emails": [],
+        "email_found": false,
+        "source": "seed",
+        "status": "new"
+    },
+    {
+        "id": "seed_5",
+        "company": "entel.cl",
+        "date": "2026-04-14",
+        "url": "https://www.entel.cl",
+        "emails": [],
+        "email_found": false,
+        "source": "seed",
+        "status": "new"
+    }
+]

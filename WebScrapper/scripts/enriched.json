@@ -1,0 +1,50 @@
+[
+    {
+        "id": "enrich_0",
+        "company": "enel chile",
+        "url": null,
+        "emails": [],
+        "date": "2026-04-14",
+        "status": "new"
+    },
+    {
+        "id": "enrich_1",
+        "company": "copec chile",
+        "url": null,
+        "emails": [],
+        "date": "2026-04-14",
+        "status": "new"
+    },
+    {
+        "id": "enrich_2",
+        "company": "sonda chile",
+        "url": null,
+        "emails": [],
+        "date": "2026-04-14",
+        "status": "new"
+    },
+    {
+        "id": "enrich_3",
+        "company": "cencosud chile",
+        "url": null,
+        "emails": [],
+        "date": "2026-04-14",
+        "status": "new"
+    },
+    {
+        "id": "enrich_4",
+        "company": "falabella chile",
+        "url": null,
+        "emails": [],
+        "date": "2026-04-14",
+        "status": "new"
+    },
+    {
+        "id": "enrich_5",
+        "company": "entel chile",
+        "url": null,
+        "emails": [],
+        "date": "2026-04-14",
+        "status": "new"
+    }
+]

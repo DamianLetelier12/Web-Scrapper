@@ -1,0 +1,542 @@
+[
+    {
+        "company": "heidenstedt.org",
+        "title": "AI-Assisted Cognition Endangers Human Development",
+        "country": "global",
+        "source": "hn",
+        "score": 1,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@heidenstedt.org",
+            "info@heidenstedt.org",
+            "sales@heidenstedt.org"
+        ],
+        "primary_email": "contact@heidenstedt.org",
+        "status": "ready"
+    },
+    {
+        "company": "strix.ai",
+        "title": "Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson",
+        "country": "global",
+        "source": "hn",
+        "score": 0,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@strix.ai",
+            "info@strix.ai",
+            "sales@strix.ai"
+        ],
+        "primary_email": "contact@strix.ai",
+        "status": "ready"
+    },
+    {
+        "company": "seqpu.com",
+        "title": "CPUs Aren't Dead. Gemma2B Out Scored GPT-3.5 Turbo on Test That Made It Famous",
+        "country": "global",
+        "source": "hn",
+        "score": 0,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@seqpu.com",
+            "info@seqpu.com",
+            "sales@seqpu.com"
+        ],
+        "primary_email": "contact@seqpu.com",
+        "status": "ready"
+    },
+    {
+        "company": "wchambliss.wordpress.com",
+        "title": "God Sleeps in the Minerals",
+        "country": "global",
+        "source": "hn",
+        "score": 0,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@wchambliss.wordpress.com",
+            "info@wchambliss.wordpress.com",
+            "sales@wchambliss.wordpress.com"
+        ],
+        "primary_email": "contact@wchambliss.wordpress.com",
+        "status": "ready"
+    },
+    {
+        "company": "eff.org",
+        "title": "Google Broke Its Promise to Me. Now ICE Has My Data",
+        "country": "global",
+        "source": "hn",
+        "score": 1,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@eff.org",
+            "info@eff.org",
+            "sales@eff.org"
+        ],
+        "primary_email": "contact@eff.org",
+        "status": "ready"
+    },
+    {
+        "company": "prog21.dadgum.com",
+        "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
+        "country": "global",
+        "source": "hn",
+        "score": 0,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@prog21.dadgum.com",
+            "info@prog21.dadgum.com",
+            "sales@prog21.dadgum.com"
+        ],
+        "primary_email": "contact@prog21.dadgum.com",
+        "status": "ready"
+    },
+    {
+        "company": "aalonso.dev",
+        "title": "Fix monitor that goes black, off or blinks due to static electricity in chair",
+        "country": "global",
+        "source": "hn",
+        "score": 1,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@aalonso.dev",
+            "info@aalonso.dev",
+            "sales@aalonso.dev"
+        ],
+        "primary_email": "contact@aalonso.dev",
+        "status": "ready"
+    },
+    {
+        "company": "semafor.com",
+        "title": "Kalshi CEO expects US DOJ to prosecute insider trading cases",
+        "country": "global",
+        "source": "hn",
+        "score": 0,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@semafor.com",
+            "info@semafor.com",
+            "sales@semafor.com"
+        ],
+        "primary_email": "contact@semafor.com",
+        "status": "ready"
+    },
+    {
+        "company": "super-memory.com",
+        "title": "Good Sleep, Good Learning (2012)",
+        "country": "global",
+        "source": "hn",
+        "score": 0,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@super-memory.com",
+            "info@super-memory.com",
+            "sales@super-memory.com"
+        ],
+        "primary_email": "contact@super-memory.com",
+        "status": "ready"
+    },
+    {
+        "company": "cal.com",
+        "title": "Cal.com is going closed source",
+        "country": "global",
+        "source": "hn",
+        "score": 0,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@cal.com",
+            "info@cal.com",
+            "sales@cal.com"
+        ],
+        "primary_email": "contact@cal.com",
+        "status": "ready"
+    },
+    {
+        "company": "100x.bot",
+        "title": "Forcing an inversion of control on the SaaS stack",
+        "country": "global",
+        "source": "hn",
+        "score": 0,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@100x.bot",
+            "info@100x.bot",
+            "sales@100x.bot"
+        ],
+        "primary_email": "contact@100x.bot",
+        "status": "ready"
+    },
+    {
+        "company": "dbpro.app",
+        "title": "Do you even need a database?",
+        "country": "global",
+        "source": "hn",
+        "score": 1,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@dbpro.app",
+            "info@dbpro.app",
+            "sales@dbpro.app"
+        ],
+        "primary_email": "contact@dbpro.app",
+        "status": "ready"
+    },
+    {
+        "company": "blog.xaner.dev",
+        "title": "How do Wake-On-LAN works",
+        "country": "global",
+        "source": "hn",
+        "score": 0,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@blog.xaner.dev",
+            "info@blog.xaner.dev",
+            "sales@blog.xaner.dev"
+        ],
+        "primary_email": "contact@blog.xaner.dev",
+        "status": "ready"
+    },
+    {
+        "company": "torrentfreak.com",
+        "title": "Anna's Archive loses $322M Spotify piracy case without a fight",
+        "country": "global",
+        "source": "hn",
+        "score": 0,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@torrentfreak.com",
+            "info@torrentfreak.com",
+            "sales@torrentfreak.com"
+        ],
+        "primary_email": "contact@torrentfreak.com",
+        "status": "ready"
+    },
+    {
+        "company": "aphyr.com",
+        "title": "The Future of Everything Is Lies, I Guess: New Jobs",
+        "country": "global",
+        "source": "hn",
+        "score": 0,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@aphyr.com",
+            "info@aphyr.com",
+            "sales@aphyr.com"
+        ],
+        "primary_email": "contact@aphyr.com",
+        "status": "ready"
+    },
+    {
+        "company": "deepmind.google",
+        "title": "Gemini Robotics-ER 1.6",
+        "country": "global",
+        "source": "hn",
+        "score": 0,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@deepmind.google",
+            "info@deepmind.google",
+            "sales@deepmind.google"
+        ],
+        "primary_email": "contact@deepmind.google",
+        "status": "ready"
+    },
+    {
+        "company": "en.wikipedia.org",
+        "title": "Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis",
+        "country": "global",
+        "source": "hn",
+        "score": 1,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@en.wikipedia.org",
+            "info@en.wikipedia.org",
+            "sales@en.wikipedia.org"
+        ],
+        "primary_email": "contact@en.wikipedia.org",
+        "status": "ready"
+    },
+    {
+        "company": "wherethefuckdidmytaxesgo.com",
+        "title": "Where did my taxes go?",
+        "country": "global",
+        "source": "hn",
+        "score": 0,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@wherethefuckdidmytaxesgo.com",
+            "info@wherethefuckdidmytaxesgo.com",
+            "sales@wherethefuckdidmytaxesgo.com"
+        ],
+        "primary_email": "contact@wherethefuckdidmytaxesgo.com",
+        "status": "ready"
+    },
+    {
+        "company": "iczelia.net",
+        "title": "Fixing a 20-year-old bug in Enlightenment E16",
+        "country": "global",
+        "source": "hn",
+        "score": 0,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@iczelia.net",
+            "info@iczelia.net",
+            "sales@iczelia.net"
+        ],
+        "primary_email": "contact@iczelia.net",
+        "status": "ready"
+    },
+    {
+        "company": "pretty.fish",
+        "title": "Pretty Fish: A better mermaid diagram editor",
+        "country": "global",
+        "source": "hn",
+        "score": 1,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@pretty.fish",
+            "info@pretty.fish",
+            "sales@pretty.fish"
+        ],
+        "primary_email": "contact@pretty.fish",
+        "status": "ready"
+    },
+    {
+        "company": "bbc.com",
+        "title": "Metro stop is Ancient Rome's new attraction",
+        "country": "global",
+        "source": "hn",
+        "score": 0,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@bbc.com",
+            "info@bbc.com",
+            "sales@bbc.com"
+        ],
+        "primary_email": "contact@bbc.com",
+        "status": "ready"
+    },
+    {
+        "company": "youtube.com",
+        "title": "We ran Doom on a 40 year old printer controller (Agfa Compugraphic 9000PS) [video]",
+        "country": "global",
+        "source": "hn",
+        "score": 0,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@youtube.com",
+            "info@youtube.com",
+            "sales@youtube.com"
+        ],
+        "primary_email": "contact@youtube.com",
+        "status": "ready"
+    },
+    {
+        "company": "gizmoweek.com",
+        "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+        "country": "global",
+        "source": "hn",
+        "score": 1,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@gizmoweek.com",
+            "info@gizmoweek.com",
+            "sales@gizmoweek.com"
+        ],
+        "primary_email": "contact@gizmoweek.com",
+        "status": "ready"
+    },
+    {
+        "company": "tracksuccession.com",
+        "title": "Show HN: Every CEO and CFO change at US public companies, live from SEC",
+        "country": "global",
+        "source": "hn",
+        "score": 0,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@tracksuccession.com",
+            "info@tracksuccession.com",
+            "sales@tracksuccession.com"
+        ],
+        "primary_email": "contact@tracksuccession.com",
+        "status": "ready"
+    },
+    {
+        "company": "manchester.ac.uk",
+        "title": "Study: Back-to-basics approach can match or outperform AI in language analysis",
+        "country": "global",
+        "source": "hn",
+        "score": 1,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@manchester.ac.uk",
+            "info@manchester.ac.uk",
+            "sales@manchester.ac.uk"
+        ],
+        "primary_email": "contact@manchester.ac.uk",
+        "status": "ready"
+    },
+    {
+        "company": "androidauthority.com",
+        "title": "The tiniest e-reader in the world, and you can build one yourself",
+        "country": "global",
+        "source": "hn",
+        "score": 0,
+        "date": "2026-04-15",
+        "emails": [
+            "contact@androidauthority.com",
+            "info@androidauthority.com",
+            "sales@androidauthority.com"
+        ],
+        "primary_email": "contact@androidauthority.com",
+        "status": "ready"
+    },
+    {
+        "company": "cemex.com",
+        "title": "empresa industrial inmobiliaria mexico",
+        "country": "mexico",
+        "source": "manual",
+        "score": 2,
+        "date": "2026-04-15",
+        "emails": [
+            "contacto@cemex.com",
+            "ventas@cemex.com",
+            "info@cemex.com"
+        ],
+        "primary_email": "contacto@cemex.com",
+        "status": "ready"
+    },
+    {
+        "company": "homedepot.com.mx",
+        "title": "empresa industrial inmobiliaria mexico",
+        "country": "mexico",
+        "source": "manual",
+        "score": 2,
+        "date": "2026-04-15",
+        "emails": [
+            "contacto@homedepot.com.mx",
+            "ventas@homedepot.com.mx",
+            "info@homedepot.com.mx"
+        ],
+        "primary_email": "contacto@homedepot.com.mx",
+        "status": "ready"
+    },
+    {
+        "company": "vesta.com.mx",
+        "title": "empresa industrial inmobiliaria mexico",
+        "country": "mexico",
+        "source": "manual",
+        "score": 2,
+        "date": "2026-04-15",
+        "emails": [
+            "contacto@vesta.com.mx",
+            "ventas@vesta.com.mx",
+            "info@vesta.com.mx"
+        ],
+        "primary_email": "contacto@vesta.com.mx",
+        "status": "ready"
+    },
+    {
+        "company": "fibrauno.mx",
+        "title": "empresa industrial inmobiliaria mexico",
+        "country": "mexico",
+        "source": "manual",
+        "score": 2,
+        "date": "2026-04-15",
+        "emails": [
+            "contacto@fibrauno.mx",
+            "ventas@fibrauno.mx",
+            "info@fibrauno.mx"
+        ],
+        "primary_email": "contacto@fibrauno.mx",
+        "status": "ready"
+    },
+    {
+        "company": "ica.com.mx",
+        "title": "empresa industrial inmobiliaria mexico",
+        "country": "mexico",
+        "source": "manual",
+        "score": 2,
+        "date": "2026-04-15",
+        "emails": [
+            "contacto@ica.com.mx",
+            "ventas@ica.com.mx",
+            "info@ica.com.mx"
+        ],
+        "primary_email": "contacto@ica.com.mx",
+        "status": "ready"
+    },
+    {
+        "company": "urbania.pe",
+        "title": "empresa inmobiliaria peru desarrollo proyecto",
+        "country": "peru",
+        "source": "manual",
+        "score": 2,
+        "date": "2026-04-15",
+        "emails": [
+            "contacto@urbania.pe",
+            "ventas@urbania.pe",
+            "info@urbania.pe"
+        ],
+        "primary_email": "contacto@urbania.pe",
+        "status": "ready"
+    },
+    {
+        "company": "centenario.com.pe",
+        "title": "empresa inmobiliaria peru desarrollo proyecto",
+        "country": "peru",
+        "source": "manual",
+        "score": 2,
+        "date": "2026-04-15",
+        "emails": [
+            "contacto@centenario.com.pe",
+            "ventas@centenario.com.pe",
+            "info@centenario.com.pe"
+        ],
+        "primary_email": "contacto@centenario.com.pe",
+        "status": "ready"
+    },
+    {
+        "company": "besco.com.pe",
+        "title": "empresa inmobiliaria peru desarrollo proyecto",
+        "country": "peru",
+        "source": "manual",
+        "score": 2,
+        "date": "2026-04-15",
+        "emails": [
+            "contacto@besco.com.pe",
+            "ventas@besco.com.pe",
+            "info@besco.com.pe"
+        ],
+        "primary_email": "contacto@besco.com.pe",
+        "status": "ready"
+    },
+    {
+        "company": "losportales.pe",
+        "title": "empresa inmobiliaria peru desarrollo proyecto",
+        "country": "peru",
+        "source": "manual",
+        "score": 2,
+        "date": "2026-04-15",
+        "emails": [
+            "contacto@losportales.pe",
+            "ventas@losportales.pe",
+            "info@losportales.pe"
+        ],
+        "primary_email": "contacto@losportales.pe",
+        "status": "ready"
+    },
+    {
+        "company": "inmgenio.com",
+        "title": "empresa inmobiliaria peru desarrollo proyecto",
+        "country": "peru",
+        "source": "manual",
+        "score": 2,
+        "date": "2026-04-15",
+        "emails": [
+            "contacto@inmgenio.com",
+            "ventas@inmgenio.com",
+            "info@inmgenio.com"
+        ],
+        "primary_email": "contacto@inmgenio.com",
+        "status": "ready"
+    }
+]
