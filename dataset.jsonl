@@ -1,0 +1,5 @@
+{"input": "node_modules/\nsrc/\nREADME.md\n.env\npackage.json", "output": "src/\nREADME.md\npackage.json"}
+{"input": ".git/\napp.py\n__pycache__/\nrequirements.txt", "output": "app.py\nrequirements.txt"}
+{"input": "dist/\nindex.html\nstyles.css\nnode_modules/", "output": "index.html\nstyles.css"}
+{"input": "logs/\nerror.log\nmain.py\n.tmp", "output": "main.py"}
+{"input": "build/\nsrc/\n.env\nconfig.json", "output": "src/\nconfig.json"}
